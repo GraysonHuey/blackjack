@@ -72,4 +72,3 @@ void displayCard(Card card) {
     printf("%s\n", result);
     free(result);
 }
-
